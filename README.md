@@ -1,4 +1,4 @@
-###  Azadeh Naderi | PhD Candidate in Generative AI, ML & Deep Learning
+###  Azadeh Naderi | I work on Generative AI, Machine Learning, and Deep Learning, focusing on how models learn, generalize, and transfer knowledge efficiently.
 
 
 ### 🌐 Connect with me
